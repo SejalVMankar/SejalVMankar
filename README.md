@@ -1,3 +1,5 @@
+![Alt text](https://www.jambit.com/site/assets/files/22064/2024-01-02-data_ai_banner.-widemedium.png)
+
 # Hi there 👋, I'm Sejal Mankar
 ### B.Tech Student in Artificial Intelligence & Data Science  
 ### at Meghe Institute of Higher Education & Research, Wardha, India
