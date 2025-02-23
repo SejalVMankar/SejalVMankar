@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Sejal Mankar
 ### B.Tech Student in Artificial Intelligence & Data Science  
-### at Meghe Institute of Higher Education & Research, Wardha, India
+### at Datta Meghe Institute of Higher Education & Research, Wardha, India
 
 - 🔭 I’m currently working on **AI-powered Depression Detection**
 - 👯 I’m looking to collaborate on **AI and Data Science projects**
