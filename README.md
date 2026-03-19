@@ -11,7 +11,7 @@
 - 💬 Ask me about **Machine Learning, Data Science, and AI**
 - 📫 How to reach me: **[sejalmankar834@gmail.com](mailto:sejalmankar834@gmail.com)**
 - 👨‍💻 Check out my projects on **[GitHub](https://github.com/SejalVMankar)**
-- 📄 Know about my experiences: **[Resume](your_resume_link_here)**
+- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1UIacP4NNaZxIwFhKrEheHKxXPXVAt5F8/view?usp=sharing)**
 - ⚡ Fun fact: **I believe AI is transforming our world faster than ever!**
 
 ---
