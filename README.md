@@ -55,18 +55,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your_twitter_link_here)  
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](your_medium_link_here)  
 
----
 
-
-
----
-
-
-
----
-
-
----
 
 ### 🙏 Thank You!  
 
